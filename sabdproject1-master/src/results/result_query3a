@@ -1,0 +1,251 @@
+Month,State,Cluster
+1,hubei,1
+1,zhejiang,0
+1,guangdong,0
+1,henan,0
+1,hunan,0
+1,jiangxi,0
+1,anhui,3
+1,jiangsu,3
+1,sichuan,3
+1,shandong,3
+1,chongqing,3
+1,hebei,3
+1,shanghai,3
+1,fujian,3
+1,shaanxi,3
+1,yunnan,3
+1,heilongjiang,2
+1,guizhou,2
+1,guangxi,2
+1,shanxi,2
+1,beijing,2
+1,ningxia,2
+1,gansu,2
+1,liaoning,2
+1,japan,2
+1,korea south,2
+1,xinjiang,2
+1,singapore,2
+1,jilin,2
+1,inner mongolia,2
+1,hainan,2
+1,thailand,2
+1,united arab emirates,2
+1,germany,2
+1,queensland,2
+1,united kingdom,2
+1,italy,2
+1,russia,2
+1,ontario,2
+1,qinghai,2
+1,victoria,2
+1,malaysia,2
+1,sweden,2
+1,tibet,2
+1,india,2
+1,philippines,2
+1,taiwan*,2
+1,finland,2
+1,british columbia,2
+1,hong kong,2
+2,korea south,1
+2,italy,2
+2,iran,3
+2,japan,0
+2,france,0
+2,germany,0
+2,spain,0
+2,kuwait,0
+2,us,0
+2,bahrain,0
+2,switzerland,0
+2,norway,0
+2,iraq,0
+2,sweden,0
+2,united kingdom,0
+2,austria,0
+2,taiwan*,0
+2,ontario,0
+2,united arab emirates,0
+2,israel,0
+2,netherlands,0
+2,croatia,0
+2,oman,0
+2,mexico,0
+2,pakistan,0
+2,hong kong,0
+2,greece,0
+2,lebanon,0
+2,denmark,0
+2,romania,0
+2,victoria,0
+2,western australia,0
+2,brazil,0
+2,finland,0
+2,queensland,0
+2,qatar,0
+2,luxembourg,0
+2,ireland,0
+2,monaco,0
+2,iceland,0
+2,new zealand,0
+2,quebec,0
+2,lithuania,0
+2,nigeria,0
+2,belarus,0
+2,estonia,0
+2,san marino,0
+2,north macedonia,0
+2,georgia,0
+2,algeria,0
+3,us,2
+3,spain,0
+3,germany,0
+3,italy,0
+3,france,0
+3,united kingdom,3
+3,iran,3
+3,turkey,3
+3,belgium,3
+3,switzerland,3
+3,netherlands,3
+3,austria,1
+3,portugal,1
+3,brazil,1
+3,israel,1
+3,quebec,1
+3,ireland,1
+3,sweden,1
+3,czechia,1
+3,chile,1
+3,russia,1
+3,norway,1
+3,philippines,1
+3,romania,1
+3,poland,1
+3,ecuador,1
+3,ontario,1
+3,luxembourg,1
+3,malaysia,1
+3,new south wales,1
+3,pakistan,1
+3,denmark,1
+3,thailand,1
+3,saudi arabia,1
+3,indonesia,1
+3,india,1
+3,dominican republic,1
+3,panama,1
+3,south africa,1
+3,mexico,1
+3,argentina,1
+3,finland,1
+3,peru,1
+3,serbia,1
+3,colombia,1
+3,victoria,1
+3,greece,1
+3,croatia,1
+3,ukraine,1
+3,british columbia,1
+4,russia,1
+4,brazil,1
+4,peru,2
+4,saudi arabia,3
+4,india,3
+4,ecuador,3
+4,mexico,3
+4,singapore,3
+4,belarus,3
+4,qatar,3
+4,pakistan,3
+4,bangladesh,3
+4,ukraine,0
+4,united arab emirates,0
+4,chile,0
+4,south africa,0
+4,alberta,0
+4,kuwait,0
+4,indonesia,0
+4,quebec,0
+4,sweden,0
+4,egypt,0
+4,colombia,0
+4,nigeria,0
+4,kazakhstan,0
+4,ghana,0
+4,ontario,0
+4,afghanistan,0
+4,dominican republic,0
+4,guinea,0
+4,oman,0
+4,bahrain,0
+4,united kingdom,0
+4,argentina,0
+4,panama,0
+4,morocco,0
+4,maldives,0
+4,senegal,0
+4,somalia,0
+4,bolivia,0
+4,sudan,0
+4,bulgaria,0
+4,sri lanka,0
+4,armenia,0
+4,tanzania,0
+4,algeria,0
+4,moldova,0
+4,serbia,0
+4,guatemala,0
+4,equatorial guinea,0
+5,brazil,2
+5,france,0
+5,russia,0
+5,india,3
+5,iran,3
+5,peru,3
+5,pakistan,3
+5,saudi arabia,1
+5,ghana,1
+5,bangladesh,1
+5,portugal,1
+5,kuwait,1
+5,sweden,1
+5,qatar,1
+5,poland,1
+5,bahrain,1
+5,equatorial guinea,1
+5,afghanistan,1
+5,honduras,1
+5,oman,1
+5,egypt,1
+5,tajikistan,1
+5,sao tome and principe,1
+5,finland,1
+5,armenia,1
+5,argentina,1
+5,moldova,1
+5,czechia,1
+5,guinea,1
+5,indonesia,1
+5,philippines,1
+5,colombia,1
+5,burkina faso,1
+5,kenya,1
+5,morocco,1
+5,azerbaijan,1
+5,guinea-bissau,1
+5,somalia,1
+5,algeria,1
+5,bulgaria,1
+5,congo (kinshasa),1
+5,el salvador,1
+5,sudan,1
+5,maldives,1
+5,germany,1
+5,romania,1
+5,congo (brazzaville),1
+5,kyrgyzstan,1
+5,cameroon,1
+5,ethiopia,1
